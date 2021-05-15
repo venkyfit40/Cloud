@@ -11,7 +11,7 @@
 
             //Check if username field is empty
             if(username.value == ""){
-                    alert("Please enter the name");
+                    alert("Please enter your name");
                     username.focus();
                     return false;
             }
